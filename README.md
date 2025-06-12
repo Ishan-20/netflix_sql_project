@@ -265,9 +265,11 @@ GROUP BY category;
 
 This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
 
-Author -
-Ishaan Khandelwal
-data analyst | Data Enthusiast | Engineer
-- **Email**: [](khandelwalishaan19@gmail.com)
-- **LinkedIn**: [](https://www.linkedin.com/in/khandelwal-ishaan/)
+## 👨‍💻 Author
+
+**Ishaan Khandelwal**  
+Data Analyst | Data Enthusiast | Engineer
+
+- 📧 **Email**: [khandelwalishaan19@gmail.com](mailto:khandelwalishaan19@gmail.com)  
+- 🔗 **LinkedIn**: [linkedin.com/in/khandelwal-ishaan](https://www.linkedin.com/in/khandelwal-ishaan/)
 
